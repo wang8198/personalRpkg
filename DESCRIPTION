@@ -4,12 +4,13 @@ Title: What the Package Does (Title Case)
 Version: 0.1.0
 Author: Yichen Wang
 Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
+Description:
+    Sometimes, the log of sum of exponentials can goes to infinity when n becomes large.
+  We use a trick to compute this value so that it will ends up with the exact value of log sum.
 License: What license is it under?
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 7.1.1
-Suggests: 
+Suggests:
     testthat (>= 3.0.0)
 Config/testthat/edition: 3
