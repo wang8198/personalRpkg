@@ -9,6 +9,8 @@
 #'
 #' log_summed_exps((seq(1:1000)))
 #'
+#' log_summed_exps((seq(1:2000)))
+#'
 #' @export
 #'
 
